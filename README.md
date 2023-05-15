@@ -15,5 +15,11 @@ Landsat 8
 This spatial spectral data is then combined into: 
 <br>
 Preprocessed Data
+<br>
+<br>
+Model is based on the paper from Zhengtao et al. 
+<br>
+https://ieeexplore-ieee-org.ezp2.lib.umn.edu/document/8999620
+
 
 

@@ -12,7 +12,7 @@ Sentinel 2 (Sentinel 2 data is split into 5 folders due to size restrictions)
 Landsat 8 
 <br>
 <br>
-This data is then combined into: 
+This spatial spectral data is then combined into: 
 <br>
 Preprocessed Data
 

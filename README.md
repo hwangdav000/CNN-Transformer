@@ -7,7 +7,10 @@ Please read my paper here for more information:
 
 In this project I have implemented a Hybrid CNN-Transformer using spatial-spectral unification on 
 satellites Sentinel-2 and Landsat-8 for crop classification. This is based on the paper from Zhengtao et al. 
+
 (https://ieeexplore-ieee-org.ezp2.lib.umn.edu/document/8999620)
+
+
 <br>
 Study region is in Sacramento Valley, California.
 <br>
@@ -18,6 +21,7 @@ the data in google colab. I then used various models like RF-200, SVM-RBF, CNN-L
 to assess how accurate it is in classifying crop data.
 This spatial spectral data is then combined into: 
 <br>
+
 Result1 
 
 ![image](https://github.com/hwangdav000/CNN-Transformer/assets/29682356/dd178111-236b-46af-bf2f-4b61fe20a879)

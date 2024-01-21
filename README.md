@@ -1,5 +1,6 @@
 # CNN-Transformer
 This was the capstone project for my Master's Degree at the UMN, Twin Cities
+<br>
 Please read my paper here for more information:
 
 
